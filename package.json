@@ -1,12 +1,15 @@
 {
-  "name": "ivan-resume",
+  "name": "mllagostera-resume",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
     "dev": "nuxt",
+    "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "heroku-postbuild": "npm run build"
+  },
+  "engines": {
+    "node": "14.15.1"
   },
   "dependencies": {
     "jump.js": "^1.0.2",
