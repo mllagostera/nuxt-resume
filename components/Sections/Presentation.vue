@@ -23,21 +23,12 @@
 
     <div class="subheading mb-5">
       {{ $t('personalInfo.city') }} · {{ $t('personalInfo.phoneNumber') }} ·
-      <a href="mailto:name@email.com">{{ $t('personalInfo.email') }}</a>
+      <a :href="'mailto:' + $t('personalInfo.email')">{{ $t('personalInfo.email') }}</a>
     </div>
     <p class="mb-5">
       {{ $t('personalInfo.myDescription') }}
     </p>
     <ul class="list-inline list-social-icons mb-0">
-      <!-- <li class="list-inline-item">
-        <a href="#">
-          <span class="fa-stack fa-lg">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </li> -->
-
       <li class="list-inline-item">
         <a target="blank" :href="$t('personalInfo.linkedin')">
           <span class="fa-stack fa-lg">
@@ -48,6 +39,14 @@
       </li>
       <li class="list-inline-item">
         <a target="blank" :href="$t('personalInfo.github')">
+          <span class="fa-stack fa-lg">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-github-alt fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a target="blank" :href="$t('personalInfo.stackshare')">
           <span class="fa-stack fa-lg">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fab fa-github-alt fa-stack-1x fa-inverse"></i>

@@ -8,40 +8,41 @@
     "projects": "Proyectos"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Miquel",
+    "lastName": "Llagostera",
     "subHeadingText": [
-      "Software Enginneer",
-      "Full Stack Developer",
+      "Software Development Manager",
+      "Team Lead, Mentor & Full Stack Developer",
       "Amante del Codigo!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Desarrollador web apasionado, desarrollando aplicaciones útiles siempre utilizando las últimas tecnologías!"
+    "city": "Barcelona, España",
+    "phoneNumber": "",
+    "email": "mllagosterarios@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mllagostera/",
+    "github": "https://github.com/mllagostera/",
+    "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
+    "myDescription": "Líder de equipo, mentor y desarrollador apasionado!"
   },
   "educationDegrees": {
     "title": "Educación 📕",
     "degrees": [
       {
-        "collage": "Universidad de La Matanza",
-        "name": "Ingeniero en Informática",
-        "itemList": ["Ciencias de la Computación"],
-        "startEndDate": "Marzo 2013 - Diciembre 2018"
+        "collage": "Universitat Autónoma de Barcelona",
+        "name": "Ingeniero técnico en Informática, especialidad en Sistemas",
+        "itemList": ["Informática"],
+        "startEndDate": "Septiembre 2005 - Junio 2008"
       },
       {
-        "collage": "Universidad de La Matanza",
-        "name": "Técnico universitario en Desarrollo de Software",
-        "itemList": ["Ciencias de la Computación"],
-        "startEndDate": "Marzo 2013 - Diciembre 2016"
+        "collage": "PUE",
+        "name": "Scrum Master",
+        "itemList": ["Informática", "Agile", "Scrum"],
+        "startEndDate": "Septiembre 2016"
       },
       {
-        "collage": "Instituto Madero",
-        "name": "Técnico en electrónica - Telecomunicaciones",
-        "itemList": ["Electrónica"],
-        "startEndDate": "Marzo 2007 - Diciembre 2012"
+        "collage": "Thales e-Security",
+        "name": "nCSD – Thales Certified Solution Developer",
+        "itemList": ["Informática", "Seguridad", "HSM", "PKI"],
+        "startEndDate": "Enero 2014"
       }
     ]
   },
@@ -49,27 +50,62 @@
     "title": "Experiencia Laboral 🔨",
     "works": [
       {
-        "position": "Ingeniero en Informática / Desarrollador FullStack",
-        "companie": "Axum - Soluciones Inteligentes",
+        "position": "Software Development Manager / Team Lead / DevOps",
+        "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsable de diseñar, codificar y mantener grupos de aplicaciones usadas en el mundo del retail por empresas multinacionales como Pepsico, Unilever, Quilmes, etc.",
+          "Team Lead de un equipo internacional distribuido formado por 7 personas, ",
+          "Responsable del desarrollo de más de 8 proyectos simultáneamente para grandes empresas, públicas y privadas",
           "Lider del equipo web, estoy a cargo de la toma de decisiones técnicas y acerca de como el equipo va a trabajar en los diferentes proyectos.",
-          "Desarrollador Backend: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Desarrollador Frontend: VueJs | ReactJs | Javascript | JQuery.",
-          "Aplicaciones de Escritorio: .NET Windows Form Applications."
+          "Crear un flujo de desarrollo estable y conocido por toda la empresa.",
+          "Mentor de los nuevos desarrolladores",
+          "Impulsor del código opensource de la empresa",
+          "Diseñar plan para poder agrerar fuentes de desarrollo, externas y deslocalizadas.",
+          "Incorporación de herramienteas externas (Pipelines, Jenkins, Sensiolabs Insight).",
+          "Búsqueda de formas de mejorar el desarrollo, tanto a nivel de calidad como de velocidad.",
+          "DevOps: Delivery | Configuración entornos | Docker | Ansible",
+          "Desarrollador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite.",
+          "Desarrollador Frontend: Javascript | JQuery."
         ],
-        "startEndDate": "Noviembre 2017 - Presente"
+        "startEndDate": "Noviembre 2016 - Presente"
       },
       {
-        "position": "Administrador Técnico",
-        "companie": "Metalurgica Vezeta",
+        "position": "Desarrollador sénior / Administrador de Sistemas",
+        "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsable del diseño y mantenimiento del ecommerce.",
-          "Diseño Gráfico (Adobe Photoshop and Adobe Illustrator).",
-          "Soporte Técnico.",
-          "Mejora de los procesos de negocio."
+          "Responsable del diseño y mantenimiento de la plataforma de gestión de la PKI.",
+          "Responsable del diseño y mantenimiento de la plataforma de sellado de tiempo.",
+          "Responsable del diseño y mantenimiento de la plataforma de MobileID (IOS/Android/Backend).",
+          "Responsable del diseño y mantenimiento de la plataforma Firmamobile (IOS/Android).",
+          "Soporte Técnico de Nivel 3",
+          "Incorporar Agile al Mejora, de los flujos de desarrollo.",
+          "Administración de sistemas: Apache | Linux | Firewall",
+          "Desarrollador Backend: PHP | Java | MySQL.",
+          "Desarrollador Frontend: Javascript | JQuery."
         ],
-        "startEndDate": "Marzo 2014 - Octubre 2017"
+        "startEndDate": "Febrero 2011 - Noviembre 2016"
+      },
+      {
+        "position": "Desarrollador júnior",
+        "companie": "Firmaprofesional S.A.",
+        "responsabilities": [
+          "Responsable del mantenimiento de la plataforma de gestión de la PKI.",
+          "Responsable del mantenimiento de la plataforma de sellado de tiempo.",
+          "Soporte Técnico a usuario final.",
+          "Desarrollador Backend: PHP | Java | MySQL",
+          "Desarrollador Frontend: Javascript | JQuery."
+        ],
+        "startEndDate": "Abril 2008 - Febrero 2011"
+      },
+      {
+        "position": "Help Desk",
+        "companie": "NexTReT",
+        "responsabilities": [
+          "Responsable de las alarmas de los sistemas.",
+          "Responsable del backup semanal.",
+          "Soporte Técnico a usuario final.",
+          "Administración de sistemas: Nagios3 | Sun StorEdge"
+        ],
+        "startEndDate": "Septiembre 2007 - Marzo 2008"
       }
     ]
   },
@@ -77,41 +113,49 @@
     "title": "Habilidades 🎯",
     "iconsTitle": "Lenguajes de Programación & Herramientas",
     "devIcons": [
-      "devicon-csharp-plain",
-      "devicon-javascript-plain",
+      "devicon-php-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
       "devicon-git-plain",
-      "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
+      "devicon-apache-line-wordmark",
       "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
+      "devicon-docker-plain",
+      "devicon-doctrine-plain",
+      "devicon-symfony-original",
+      "devicon-mysql-plain",
+      "devicon-jenkins-plain",
+      "devicon-jira-plain",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-phpstorm-plain",
+      "devicon-android-plain",
+      "devicon-nodejs-plain",
+      "devicon-bootstrap-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-javascript-plain",
+      "devicon-ssh-original",
+      "devicon-slack-plain",
+      "devicon-markdown-original",
+      "devicon-intellij-plain",
+      "devicon-heroku-original"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Diseño Responsive & UX",
-      "Cross Browser Testing & Debugging",
+      "Mejora continua de la calidad del código",
       "Contrucción de REST API",
-      "Desarrollo Ágil & Scrum",
+      "Desarrollo Agile & Scrum",
       "Trabajo en equipo",
-      "Patrones de diseño"
+      "Patrones de diseño",
+      "Arquitectura de software",
+      "Visión a largo plazo",
+      "De monolitico a microservicio, si tiene sentido 😉"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Además de ser desarrollador web, disfruto la gran parte de mi tiempo escuchando y tocando música. Me encanta cantar y tocar el piano en mis ratos libres!. 🎹🎵",
-    "secondBlock": "También le dedico una gran parte de mi tiempo libre a explorar las última tecnologias y avances en el mundo del backend/frontend, y programo en mis proyectos personales! 🙌👨‍💻"
+    "firstBlock": "Además de ser desarrollador y team lead, disfruto la gran parte de mi tiempo libre leyendo, viajando, resolviendo puzzles, jugando con mis perros y fotografiando el mundo en el que vivimos 📷",
+    "secondBlock": "Aprender todo lo que puedo es una de mis grandes pasiones: nuevas tecnologia e historia con mis grandes campos de estudio."
   },
   "projects": {
     "title": "Proyectos Personales 🦾🧠",
@@ -121,24 +165,6 @@
         "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
         "image": "/images/kelawar.jpg",
         "siteUrl": "https://kelawar.com/"
-      },
-      {
-        "name": "Docuisy",
-        "description": "Docuisy es un creador de Wikis basadas en archivos .md",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
-      },
-      {
-        "name": "Better Drive",
-        "description": "Better Drive es una herramienta gratuita para analizar su cuenta de Google Drive. Google Drive es un poderoso servicio de almacenamiento y sincronización de archivos, pero a veces usted puede sentir que pierde el control de estos. Teniendo en cuenta las preocupaciones de privacidad que tienen muchos usuarios, creamos esta gran herramienta para ayudarlo a organizar, limpiar y aprovechar el uso de su Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "Simple y customizable template hecho con Nuxt y con soporte multilenguaje (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
       }
     ]
   }

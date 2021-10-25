@@ -8,40 +8,41 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Miquel",
+    "lastName": "Llagostera",
     "subHeadingText": [
-      "Software Enginneer",
-      "Full Stack Developer",
-      "Code enthusiast!"
+      "Software Development Manager",
+      "Team Lead, Coach & Full Stack Developer",
+      "Amante del Codigo!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Passionate web developer, making useful application using the latest technologies!"
+    "city": "Barcelona, Spain",
+    "phoneNumber": "",
+    "email": "mllagosterarios@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mllagostera/",
+    "github": "https://github.com/mllagostera/",
+    "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
+    "myDescription": "Team leader, coaching and passionate software developer!"
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
+        "collage": "Universitat Autónoma de Barcelona",
+        "name": "Computer Science, Belchor degree",
         "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "startEndDate": "September 2005 - June 2008"
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
+        "collage": "PUE",
+        "name": "Scrum Master",
+        "itemList": ["Computer Science", "Agile", "Scrum"],
+        "startEndDate": "September 2016"
       },
       {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "collage": "Thales e-Security",
+        "name": "nCSD – Thales Certified Solution Developer",
+        "itemList": ["Computer Science", "Seguridad", "HSM", "PKI"],
+        "startEndDate": "January 2014"
       }
     ]
   },
@@ -49,27 +50,62 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "Software Development Manager / Team Lead / DevOps",
+        "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Team Lead of a distributed international team made up of 7 people.",
+          "Responsible for the development of all projects simultaneously for large companies, public and private.",
+          "Leader of the web team, I am in charge of technical decision making and how the team is going to work on the different projects.",
+          "Create a stable development flow that is known throughout the company.",
+          "New Developer Mentor.",
+          "The person behind open source code's company",
+          "Diseñar plan para poder agrerar fuentes de desarrollo, externas y deslocalizadas.",
+          "Add new tools to improve code quality and easier ways to deploy (Pipelines, Jenkins, Sensiolabs Insight).",
+          "Set up new ways to improve code, better and faster coding.",
+          "DevOps: Delivery | Sys configuration | Docker | Ansible",
+          "Backend developer: PHP | Symfony | Java | MySQL | Elasticsearch.",
+          "Frontend developer: Javascript | JQuery."
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "November 2016 - Present"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
+        "position": "Senior developer / SysAdmin",
+        "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
-          "Technical support.",
-          "Improve business processes."
+          "Responsible of design and maintenance of PKI platform.",
+          "Responsible of design and maintenance of TSA & OCSP platform.",
+          "Responsible of design and maintenance of MobileID (IOS/Android/Backend)",
+          "Responsible of design and maintenance of Firmamobile (IOS/Android)",
+          "Technical support L3.",
+          "Improve development workflow.",
+          "System administration: Apache | Linux | Firewall",
+          "Backend developer: PHP | Java | MySQL.",
+          "Frontend developer: Javascript | JQuery."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "February 2011 - November 2016"
+      },
+      {
+        "position": "Junior developer",
+        "companie": "Firmaprofesional S.A.",
+        "responsabilities": [
+          "Developer of PKI platform.",
+          "Developer of TSA & OCSP platform",
+          "Technical support L1&2.",
+          "Backend developer: PHP | Java | MySQL | SQLlite.",
+          "Frontend developer: Javascript | JQuery."
+        ],
+        "startEndDate": "April 2008 - February 2011"
+      },
+      {
+        "position": "Help Desk",
+        "companie": "NexTReT",
+        "responsabilities": [
+          "Responsable de las alarmas de los sistemas.",
+          "Responsable del backup semanal.",
+          "Soporte Técnico a usuario final.",
+          "Sys Admin: Nagios3 | Sun StorEdge"
+        ],
+        "startEndDate": "September 2007 - March 2008"
       }
     ]
   },
@@ -77,40 +113,48 @@
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
-      "devicon-javascript-plain",
+      "devicon-php-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
       "devicon-git-plain",
-      "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
+      "devicon-apache-line-wordmark",
       "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
+      "devicon-docker-plain",
+      "devicon-doctrine-plain",
+      "devicon-symfony-original",
+      "devicon-mysql-plain",
+      "devicon-jenkins-plain",
+      "devicon-jira-plain",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-phpstorm-plain",
+      "devicon-android-plain",
+      "devicon-nodejs-plain",
+      "devicon-bootstrap-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-javascript-plain",
+      "devicon-ssh-original",
+      "devicon-slack-plain",
+      "devicon-markdown-original",
+      "devicon-intellij-plain",
+      "devicon-heroku-original"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Responsive Design & UX",
-      "Cross Browser Testing & Debugging",
+      "Code quality cointinius improvement",
       "REST API building",
       "Agile Development & Scrum",
       "Team working",
-      "Design Patterns"
+      "Design Patterns",
+      "software architecture",
+      "Long term vision",
+      "From monolithic to microservices, if it's needed 😉"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
+    "firstBlock": "Apart from being a developer and team leader, I enjoy most of my time reading, traveling, solving puzzles, playing with my dogs and taking pictures of the world we live in 📷",
     "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
   },
   "projects": {
@@ -121,24 +165,6 @@
         "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
         "image": "/images/kelawar.jpg",
         "siteUrl": "https://kelawar.com/"
-      },
-      {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
-      },
-      {
-        "name": "Better Drive",
-        "description": "Better Drive is a free tool to analyze your Google Drive account. Google Drive is a powerful file storage and synchronization service, but sometimes you feel like you lose control of it. Keeping privacy concerns in mind, that many users have, we built this great tool to help you organize, clean, and leverage the use of your Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
       }
     ]
   }
