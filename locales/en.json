@@ -156,16 +156,5 @@
     "title": "Hobbies 😄",
     "firstBlock": "Apart from being a developer and team leader, I enjoy most of my time reading, traveling, solving puzzles, playing with my dogs and taking pictures of the world we live in 📷",
     "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
-  },
-  "projects": {
-    "title": "Personal Projects 🦾🧠",
-    "projectsInfo": [
-      {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
-      }
-    ]
   }
 }
