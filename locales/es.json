@@ -21,6 +21,7 @@
     "linkedin": "https://www.linkedin.com/in/mllagostera/",
     "github": "https://github.com/mllagostera/",
     "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
+    "instagram" : "https://www.instagram.com/vansid.photography/",
     "myDescription": "Líder de equipo, mentor y desarrollador apasionado!"
   },
   "educationDegrees": {
@@ -53,15 +54,14 @@
         "position": "Software Development Manager / Team Lead / DevOps",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Team Lead de un equipo internacional distribuido formado por 7 personas, ",
-          "Responsable del desarrollo de más de 8 proyectos simultáneamente para grandes empresas, públicas y privadas",
-          "Lider del equipo web, estoy a cargo de la toma de decisiones técnicas y acerca de como el equipo va a trabajar en los diferentes proyectos.",
-          "Crear un flujo de desarrollo estable y conocido por toda la empresa.",
+          "Team Lead de un equipo internacional deslocalizado formado por 7 personas",
+          "Responsable del desarrollo simltáneo de más de 8 proyectos para grandes empresas tanto públicas como privadas",
+          "Líder del equipo web, siendo el responsable de la toma de decisiones técnicas y de la asignación de las tareas a mi equipo en los diferentes proyectos.",
+          "Creador del flujo de desarrollo de software estable para toda la empresa",
           "Mentor de los nuevos desarrolladores",
           "Impulsor del código opensource de la empresa",
-          "Diseñar plan para poder agrerar fuentes de desarrollo, externas y deslocalizadas.",
-          "Incorporación de herramienteas externas (Pipelines, Jenkins, Sensiolabs Insight).",
-          "Búsqueda de formas de mejorar el desarrollo, tanto a nivel de calidad como de velocidad.",
+          "Diseñador del plan para poder agrerar fuentes de desarrollo externas y deslocalizadas.",
+          "Responsable de buscar e incorporar las herramienteas externas para mejorar la calidad del código desarrollado (Pipelines, Jenkins, Sensiolabs Insight).",
           "DevOps: Delivery | Configuración entornos | Docker | Ansible",
           "Desarrollador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite.",
           "Desarrollador Frontend: Javascript | JQuery."
@@ -72,15 +72,15 @@
         "position": "Desarrollador sénior / Administrador de Sistemas",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsable del diseño y mantenimiento de la plataforma de gestión de la PKI.",
-          "Responsable del diseño y mantenimiento de la plataforma de sellado de tiempo.",
-          "Responsable del diseño y mantenimiento de la plataforma de MobileID (IOS/Android/Backend).",
-          "Responsable del diseño y mantenimiento de la plataforma Firmamobile (IOS/Android).",
+          "Responsable del diseño y mantenimiento de la plataforma de gestión de la PKI",
+          "Responsable del diseño y mantenimiento de la plataforma de sellado de tiempo",
+          "Responsable del diseño y mantenimiento de la plataforma de MobileID (IOS/Android/Backend)",
+          "Responsable del diseño y mantenimiento de la plataforma Firmamobile (IOS/Android)",
           "Soporte Técnico de Nivel 3",
-          "Incorporar Agile al Mejora, de los flujos de desarrollo.",
+          "Incorporar Agile a la mejora de los flujos de desarrollo",
           "Administración de sistemas: Apache | Linux | Firewall",
-          "Desarrollador Backend: PHP | Java | MySQL.",
-          "Desarrollador Frontend: Javascript | JQuery."
+          "Desarrollador Backend: PHP | Java | MySQL",
+          "Desarrollador Frontend: Javascript | JQuery"
         ],
         "startEndDate": "Febrero 2011 - Noviembre 2016"
       },
@@ -88,11 +88,11 @@
         "position": "Desarrollador júnior",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsable del mantenimiento de la plataforma de gestión de la PKI.",
-          "Responsable del mantenimiento de la plataforma de sellado de tiempo.",
-          "Soporte Técnico a usuario final.",
+          "Responsable del mantenimiento de la plataforma de gestión de la PKI",
+          "Responsable del mantenimiento de la plataforma de sellado de tiempo",
+          "Soporte Técnico a usuario final",
           "Desarrollador Backend: PHP | Java | MySQL",
-          "Desarrollador Frontend: Javascript | JQuery."
+          "Desarrollador Frontend: Javascript | JQuery"
         ],
         "startEndDate": "Abril 2008 - Febrero 2011"
       },
@@ -100,9 +100,9 @@
         "position": "Help Desk",
         "companie": "NexTReT",
         "responsabilities": [
-          "Responsable de las alarmas de los sistemas.",
-          "Responsable del backup semanal.",
-          "Soporte Técnico a usuario final.",
+          "Responsable de las alarmas de los sistemas",
+          "Responsable del backup semanal",
+          "Soporte Técnico a usuario final",
           "Administración de sistemas: Nagios3 | Sun StorEdge"
         ],
         "startEndDate": "Septiembre 2007 - Marzo 2008"
@@ -149,12 +149,23 @@
       "Patrones de diseño",
       "Arquitectura de software",
       "Visión a largo plazo",
-      "De monolitico a microservicio, si tiene sentido 😉"
+      "De monolítico a microservicio, si tiene sentido 😉"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Además de ser desarrollador y team lead, disfruto la gran parte de mi tiempo libre leyendo, viajando, resolviendo puzzles, jugando con mis perros y fotografiando el mundo en el que vivimos 📷",
-    "secondBlock": "Aprender todo lo que puedo es una de mis grandes pasiones: nuevas tecnologia e historia con mis grandes campos de estudio."
+    "firstBlock": "Disfruto mi tiempo libre leyendo, viajando, resolviendo puzzles y jugando con mis perros. Además, soy un apasionado de aprender sobre historia y nuevas tecnologías.",
+    "secondBlock": "Pero, sobretodo, disfruto fotografiando el mundo en el que vivimos 📷"
+  },
+  "projects": {
+    "title": "Proyectos Personales 🦾🧠",
+    "projectsInfo": [
+      {
+        "name": "Kelawar",
+        "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
+        "image": "/images/kelawar.jpg",
+        "siteUrl": "https://kelawar.com/"
+      }
+    ]
   }
 }

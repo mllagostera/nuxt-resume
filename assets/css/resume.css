@@ -58,6 +58,10 @@ body {
   .list-icons .list-inline-item i:hover {
     color: var(--color-primary-hover);
   }
+
+  .list-skill-icons i {
+    color: var(--color-primary);
+  }
   
   #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 600;

@@ -20,10 +20,7 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <Interests />
       </section>
-
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
-        <Projects />
-      </section>
+      
     </div>
   </section>
 </template>
