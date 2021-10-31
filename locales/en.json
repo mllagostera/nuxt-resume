@@ -54,18 +54,17 @@
         "position": "Software Development Manager / Team Lead / DevOps",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Team Lead of a distributed international team made up of 7 people.",
-          "Responsible for the development of all projects simultaneously for large companies, public and private.",
-          "Leader of the web team, I am in charge of technical decision making and how the team is going to work on the different projects.",
-          "Create a stable development flow that is known throughout the company.",
-          "New Developer Mentor.",
-          "The person behind open source code's company",
-          "Diseñar plan para poder agrerar fuentes de desarrollo, externas y deslocalizadas.",
-          "Add new tools to improve code quality and easier ways to deploy (Pipelines, Jenkins, Sensiolabs Insight).",
-          "Set up new ways to improve code, better and faster coding.",
-          "DevOps: Delivery | Sys configuration | Docker | Ansible",
-          "Backend developer: PHP | Symfony | Java | MySQL | Elasticsearch.",
-          "Frontend developer: Javascript | JQuery."
+          "Team Lead of an international offshore team of 7 people",
+          "Responsible for the simultaneous development of more than 8 projects for large public and private companies",
+          "Leader of the web team, being responsible for technical decision making and assigning tasks to my team in the different projects",
+          "Creator of the stable software development flow for the whole company",
+          "Mentor of new developers",
+          "Driver of the open source code of the company",
+          "Plan designer to be able to aggregate external and offshore development sources",
+          "Responsible for finding and incorporating external tools to improve the quality of the developed code (Pipelines, Jenkins, Sensiolabs Insight)",
+          "DevOps: Delivery | Configuration Environments | Docker | Ansible",
+          "Backend Developer: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite",
+          "Frontend Developer: Javascript | JQuery"
         ],
         "startEndDate": "November 2016 - Present"
       },
@@ -73,15 +72,15 @@
         "position": "Senior developer / SysAdmin",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Responsible of design and maintenance of PKI platform.",
-          "Responsible of design and maintenance of TSA & OCSP platform.",
-          "Responsible of design and maintenance of MobileID (IOS/Android/Backend)",
-          "Responsible of design and maintenance of Firmamobile (IOS/Android)",
-          "Technical support L3.",
-          "Improve development workflow.",
-          "System administration: Apache | Linux | Firewall",
-          "Backend developer: PHP | Java | MySQL.",
-          "Frontend developer: Javascript | JQuery."
+          "Responsible for the design and maintenance of the PKI management platform",
+          "Responsible for the design and maintenance of the time-stamping platform",
+          "Responsible for the design and maintenance of the MobileID platform (IOS/Android/Backend)",
+          "Responsible for the design and maintenance of the Firmamobile platform (IOS/Android)",
+          "Level 3 Technical Support",
+          "Incorporate Agile to improve development workflows",
+          "System Administration: Apache | Linux | Firewall",
+          "Backend Developer: PHP | Java | Java | MySQL",
+          "Frontend Developer: Javascript | JQuery"
         ],
         "startEndDate": "February 2011 - November 2016"
       },
@@ -89,11 +88,11 @@
         "position": "Junior developer",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Developer of PKI platform.",
-          "Developer of TSA & OCSP platform",
-          "Technical support L1&2.",
-          "Backend developer: PHP | Java | MySQL | SQLlite.",
-          "Frontend developer: Javascript | JQuery."
+          "Responsible for the maintenance of the PKI management platform",
+          "Responsible for the maintenance of the time-stamping platform",
+          "End-user technical support",
+          "Backend Developer: PHP | Java | Java | MySQL",
+          "Frontend Developer: Javascript | JQuery | JQuery"
         ],
         "startEndDate": "April 2008 - February 2011"
       },
@@ -101,10 +100,10 @@
         "position": "Help Desk",
         "companie": "NexTReT",
         "responsabilities": [
-          "Responsable de las alarmas de los sistemas.",
-          "Responsable del backup semanal.",
-          "Soporte Técnico a usuario final.",
-          "Sys Admin: Nagios3 | Sun StorEdge"
+          "Responsible for system alarms",
+          "Responsible for weekly backup",
+          "End-user technical support",
+          "System administration: Nagios3 | Sun StorEdge"
         ],
         "startEndDate": "September 2007 - March 2008"
       }
@@ -155,7 +154,7 @@
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a developer and team leader, I enjoy most of my time reading, traveling, solving puzzles, playing with my dogs and taking pictures of the world we live in 📷",
-    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
+    "firstBlock": "I enjoy my free time reading, travelling, solving puzzles and playing with my dogs. I am also passionate about learning about history and new technologies",
+    "secondBlock": "But, most of all, I enjoy photographing the world we live in 📷"
   }
 }

@@ -55,16 +55,16 @@
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
           "Team Lead de un equipo internacional deslocalizado formado por 7 personas",
-          "Responsable del desarrollo simltáneo de más de 8 proyectos para grandes empresas tanto públicas como privadas",
-          "Líder del equipo web, siendo el responsable de la toma de decisiones técnicas y de la asignación de las tareas a mi equipo en los diferentes proyectos.",
+          "Responsable del desarrollo simultáneo de más de 8 proyectos para grandes empresas tanto públicas como privadas",
+          "Líder del equipo web, siendo el responsable de la toma de decisiones técnicas y de la asignación de las tareas a mi equipo en los diferentes proyectos",
           "Creador del flujo de desarrollo de software estable para toda la empresa",
           "Mentor de los nuevos desarrolladores",
           "Impulsor del código opensource de la empresa",
-          "Diseñador del plan para poder agrerar fuentes de desarrollo externas y deslocalizadas.",
-          "Responsable de buscar e incorporar las herramienteas externas para mejorar la calidad del código desarrollado (Pipelines, Jenkins, Sensiolabs Insight).",
+          "Diseñador del plan para poder agregar fuentes de desarrollo externas y deslocalizadas",
+          "Responsable de buscar e incorporar las herramienteas externas para mejorar la calidad del código desarrollado (Pipelines, Jenkins, Sensiolabs Insight)",
           "DevOps: Delivery | Configuración entornos | Docker | Ansible",
-          "Desarrollador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite.",
-          "Desarrollador Frontend: Javascript | JQuery."
+          "Desarrollador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite",
+          "Desarrollador Frontend: Javascript | JQuery"
         ],
         "startEndDate": "Noviembre 2016 - Presente"
       },

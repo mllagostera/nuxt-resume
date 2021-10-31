@@ -113,10 +113,10 @@ export default {
     ["@nuxtjs/style-resources"]
   ],
   i18n: {
-    locales: ["en", "es"],
-    defaultLocale: "en",
+    locales: ["es", "en"],
+    defaultLocale: "es",
     vueI18n: {
-      fallbackLocale: "en",
+      fallbackLocale: "es",
       messages: {
         en: require("./locales/en.json"),
         es: require("./locales/es.json")
