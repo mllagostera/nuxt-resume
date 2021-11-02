@@ -13,7 +13,7 @@
     "subHeadingText": [
       "Software Development Manager",
       "Team Lead, Coach & Full Stack Developer",
-      "Amante del Codigo!"
+      "Code lover!"
     ],
     "city": "Barcelona, Spain",
     "phoneNumber": "",
@@ -22,6 +22,7 @@
     "github": "https://github.com/mllagostera/",
     "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
     "instagram" : "https://www.instagram.com/vansid.photography/",
+    "flickr" : "https://www.flickr.com/photos/vansid",
     "myDescription": "Team leader, coaching and passionate software developer!"
   },
   "educationDegrees": {
@@ -42,7 +43,7 @@
       {
         "collage": "Thales e-Security",
         "name": "nCSD – Thales Certified Solution Developer",
-        "itemList": ["Computer Science", "Seguridad", "HSM", "PKI"],
+        "itemList": ["Computer Science", "Security", "HSM", "PKI"],
         "startEndDate": "January 2014"
       }
     ]
@@ -150,7 +151,22 @@
       "software architecture",
       "Long term vision",
       "From monolithic to microservices, if it's needed 😉"
-    ]
+    ],
+    "language": "Languages",
+    "languageItemList": {
+      "english": {
+        "label": "English",
+        "level": "Advanced"
+      },
+      "spanish": {
+        "label": "Spanish",
+        "level": "Mother language"
+      },
+      "catalan": {
+        "label": "Catalan",
+        "level": "Mother language"
+      }
+    }
   },
   "interests": {
     "title": "Hobbies 😄",

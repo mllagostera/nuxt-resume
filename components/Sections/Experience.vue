@@ -9,10 +9,10 @@
     >
       <div class="resume-content mr-auto">
         <h3 class="mb-0">{{ work.position }}</h3>
-        <div class="subheading mb-3">
+        <div class="subheading mb-3 text-primary">
           {{ work.companie }}
-          <div class="resume-date">
-          <span class="text-primary">{{ work.startEndDate }}</span>
+          <div class="resume-date-position">
+          <span class="text-primary-third">{{ work.startEndDate }}</span>
         </div>
         </div>
         <p

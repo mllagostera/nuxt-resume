@@ -16,6 +16,14 @@
         {{item}}
       </li>
     </ul>
+
+    <div class="subheading mb-3">{{ $t('skills.language') }}</div>
+    <ul class="fa-ul mb-0 list-skill-icons">
+      <li v-for="item in  $t('skills.languageItemList')" :key="item">
+        <i class="fa-li fa fa-language"></i>
+        {{item.label}} - {{item.level}}
+      </li>
+    </ul>
   </div>
 </template>
 

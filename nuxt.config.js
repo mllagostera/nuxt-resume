@@ -10,6 +10,9 @@ export default {
    */
   head: {
     title: process.env.npm_package_name || "",
+    htmlAttrs: {
+      lang: "es",
+    },
     script: [
       {
         src:
@@ -113,13 +116,14 @@ export default {
     ["@nuxtjs/style-resources"]
   ],
   i18n: {
-    locales: ["es", "en"],
+    locales: ["es", "en", "ca"],
     defaultLocale: "es",
     vueI18n: {
       fallbackLocale: "es",
       messages: {
         en: require("./locales/en.json"),
-        es: require("./locales/es.json")
+        es: require("./locales/es.json"),
+        ca: require("./locales/ca.json")
       }
     }
   },
@@ -145,8 +149,6 @@ export default {
             //changeLoaderOptions(Array.isArray(loader) ? loader : [loader]);
           }
         }
-        //config.module.rules.forEach(rule => changeLoaderOptions(rule.use));
-        // console.log(util.inspect(config.module.rules, { depth: 6 }))
       }
     }
   }

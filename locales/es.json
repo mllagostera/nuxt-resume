@@ -22,6 +22,7 @@
     "github": "https://github.com/mllagostera/",
     "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
     "instagram" : "https://www.instagram.com/vansid.photography/",
+    "flickr" : "https://www.flickr.com/photos/vansid",
     "myDescription": "Líder de equipo, mentor y desarrollador apasionado!"
   },
   "educationDegrees": {
@@ -61,7 +62,7 @@
           "Mentor de los nuevos desarrolladores",
           "Impulsor del código opensource de la empresa",
           "Diseñador del plan para poder agregar fuentes de desarrollo externas y deslocalizadas",
-          "Responsable de buscar e incorporar las herramienteas externas para mejorar la calidad del código desarrollado (Pipelines, Jenkins, Sensiolabs Insight)",
+          "Responsable de buscar e incorporar las herramientas externas para mejorar la calidad del código desarrollado (Pipelines, Jenkins, Sensiolabs Insight)",
           "DevOps: Delivery | Configuración entornos | Docker | Ansible",
           "Desarrollador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite",
           "Desarrollador Frontend: Javascript | JQuery"
@@ -150,7 +151,22 @@
       "Arquitectura de software",
       "Visión a largo plazo",
       "De monolítico a microservicio, si tiene sentido 😉"
-    ]
+    ],
+    "language": "Idiomas",
+    "languageItemList": {
+      "english": {
+        "label": "Inglés",
+        "level": "Avanzado"
+      },
+      "spanish": {
+        "label": "Español",
+        "level": "Nativo"
+      },
+      "catalan": {
+        "label": "Catalán",
+        "level": "Nativo"
+      }
+    }
   },
   "interests": {
     "title": "Hobbies 😄",

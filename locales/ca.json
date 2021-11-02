@@ -1,0 +1,187 @@
+{
+  "links": {
+    "about": "Sobre mi",
+    "education": "Educació",
+    "experience": "Experiència",
+    "skills": "Habilitats",
+    "interests": "Interessos",
+    "projects": "Projectes"
+  },
+  "personalInfo": {
+    "name": "Miquel",
+    "lastName": "Llagostera",
+    "subHeadingText": [
+      "Software Development Manager",
+      "Team Lead, Mentor i Full Stack Developer",
+      "Amante del Codigo!"
+    ],
+    "city": "Barcelona, Espanya",
+    "phoneNumber": "",
+    "email": "mllagosterarios@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mllagostera/",
+    "github": "https://github.com/mllagostera/",
+    "stackshare" : "https://stackshare.io/mllagostera/my-stack#stack",
+    "instagram" : "https://www.instagram.com/vansid.photography/",
+    "flickr" : "https://www.flickr.com/photos/vansid",
+    "myDescription": "Líder d'equip, mentor i desenvolupador apassionat!"
+  },
+  "educationDegrees": {
+    "title": "Educació 📕",
+    "degrees": [
+      {
+        "collage": "Universitat Autónoma de Barcelona",
+        "name": "Enginyer tècnic en Informàtica, especialitat en Sistemes",
+        "itemList": ["Informàtica"],
+        "startEndDate": "Setembre 2005 - Juny 2008"
+      },
+      {
+        "collage": "PUE",
+        "name": "Scrum Master",
+        "itemList": ["Informàtica", "Agile", "Scrum"],
+        "startEndDate": "Setembre 2016"
+      },
+      {
+        "collage": "Thales e-Security",
+        "name": "nCSD – Thales Certified Solution Developer",
+        "itemList": ["Informàtica", "Seguretat", "HSM", "PKI"],
+        "startEndDate": "Gener 2014"
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Experiència Laboral 🔨",
+    "works": [
+      {
+        "position": "Software Development Manager / Team Lead / DevOps",
+        "companie": "Firmaprofesional S.A.",
+        "responsabilities": [
+          "Team Lead d'un equip internacional deslocalitzat format per 7 persones",
+          "Responsable del desenvolupament simultani de més de 8 projectes per a grans empreses tant públiques com privades",
+          "Líder de l'equip web, sent el responsable de la presa de decisions tècniques i de l'assignació de les tasques al meu equip en els diferents projectes",
+          "Creador del flux de desenvolupament de programari estable per a tota l'empresa",
+          "Mentor dels nous desenvolupadors",
+          "Impulsor del codi opensource de l'empresa",
+          "Dissenyador del pla per a poder agregar fonts de desenvolupament externes i deslocalitzades",
+          "Responsable de buscar i incorporar les eines externes per a millorar la qualitat del codi desenvolupat (Pipelines, Jenkins, Sensiolabs Insight)",
+          "DevOps: Delivery | Configuració d'entornos | Docker | Ansible",
+          "Desenvolupador Backend: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite",
+          "Desenvolupador Frontend: Javascript | JQuery"
+        ],
+        "startEndDate": "Novembre 2016 - Actualment"
+      },
+      {
+        "position": "Desenvolupador sènior / Administrador de Sistemes",
+        "companie": "Firmaprofesional S.A.",
+        "responsabilities": [
+          "Responsable del disseny i manteniment de la plataforma de gestió de la PKI",
+          "Responsable del disseny i manteniment de la plataforma de segellament de temps",
+          "Responsable del disseny i manteniment de la plataforma de MobileID (IOS/Android/Backend)",
+          "Responsable del disseny i manteniment de la plataforma Firmamobile (IOS/Android)",
+          "Suport Tècnic de Nivell 3",
+          "Incorporar Agile a la millora dels fluxos de desenvolupament",
+          "Administració de sistemes: Apache2 | Linux | Firewall",
+          "Desenvolupador Backend: PHP | Java | MySQL",
+          "Desenvolupador Frontend: Javascript | JQuery"
+        ],
+        "startEndDate": "Febrer 2011 - Novembre 2016"
+      },
+      {
+        "position": "Desenvolupador júnior",
+        "companie": "Firmaprofesional S.A.",
+        "responsabilities": [
+          "Responsable del manteniment de la plataforma de gestió de la PKI",
+          "Responsable del manteniment de la plataforma de segellament de temps",
+          "Suport Tècnic a usuari final",
+          "Desenvolupador Backend: PHP | Java | MySQL",
+          "Desenvolupador Frontend: Javascript | JQuery"
+        ],
+        "startEndDate": "Abril 2008 - Febrer 2011"
+      },
+      {
+        "position": "Help Desk",
+        "companie": "NexTReT",
+        "responsabilities": [
+          "Responsable de les alarmes dels sistemes",
+          "Responsable de la còpia de seguretat setmanal",
+          "Suport Tècnic a usuari final",
+          "Administració de sistemes: Nagios3 | Sun StorEdge"
+        ],
+        "startEndDate": "Setembre 2007 - Març 2008"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Habilitats 🎯",
+    "iconsTitle": "Llenguatges de Programació & Eines",
+    "devIcons": [
+      "devicon-php-plain",
+      "devicon-html5-plain-wordmark",
+      "devicon-css3-plain-wordmark",
+      "devicon-git-plain",
+      "devicon-github-original",
+      "devicon-bitbucket-original-wordmark",
+      "devicon-apache-line-wordmark",
+      "devicon-linux-plain",
+      "devicon-docker-plain",
+      "devicon-doctrine-plain",
+      "devicon-symfony-original",
+      "devicon-mysql-plain",
+      "devicon-jenkins-plain",
+      "devicon-jira-plain",
+      "devicon-visualstudio-plain",
+      "devicon-phpstorm-plain",
+      "devicon-android-plain",
+      "devicon-nodejs-plain",
+      "devicon-bootstrap-plain",
+      "devicon-jquery-plain-wordmark",
+      "devicon-javascript-plain",
+      "devicon-ssh-original",
+      "devicon-slack-plain",
+      "devicon-markdown-original",
+      "devicon-intellij-plain",
+      "devicon-heroku-original"
+    ],
+    "workflow": "Workflow",
+    "itemList": [
+      "Millora contínua de la qualitat del codi",
+      "Contrucció de REST API",
+      "Desenvolupament Agile & Scrum",
+      "Treball en equip",
+      "Patrons de disseny",
+      "Arquitectura de software",
+      "Visió a llarg termini",
+      "De monolític a microservei, si té sentit 😉"
+    ],
+    "language": "Idiomes",
+    "languageItemList": {
+      "english": {
+        "label": "Anglès",
+        "level": "Avançat"
+      },
+      "spanish": {
+        "label": "Espanyol",
+        "level": "natiu"
+      },
+      "catalan": {
+        "label": "Català",
+        "level": "Natiu"
+      }
+    }
+  },
+  "interests": {
+    "title": "Hobbies 😄",
+    "firstBlock": "Gaudeixo el meu temps lliure llegint, viatjant, resolent puzles i jugant amb els meus gossos. A més, sóc un apassionat d'aprendre sobre història i noves tecnologies.",
+    "secondBlock": "Però, sobretot, gaudeixo fotografiant el món en el qual vivim 📷"
+  },
+  "projects": {
+    "title": "Proyectos Personales 🦾🧠",
+    "projectsInfo": [
+      {
+        "name": "Kelawar",
+        "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
+        "image": "/images/kelawar.jpg",
+        "siteUrl": "https://kelawar.com/"
+      }
+    ]
+  }
+}

@@ -5,11 +5,11 @@
       id="sideNav"
     >
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Resume Miquel</span>
+        <span class="d-block d-lg-none"></span>
         <span class="d-none d-lg-block">
           <img
             class="img-fluid img-profile rounded-circle mx-auto mb-2"
-            src="/profile.jpg"
+            src="/profile-min.jpg"
             alt=""
           />
         </span>
@@ -67,18 +67,22 @@
               >{{ $t('links.interests') }}</a
             >
           </li>
+
           <li class="nav-item">
             <div style="position:fixed; bottom:10px; left:10px; z-index:1000;">
               <DarkModeBtn />
             </div>
           </li>
           <li class="nav-item">
-            <div style="position:fixed; bottom:10px; right: 10px;z-index:1000;">
-              <nuxt-link class="btn btn-light" :to="switchLocalePath('en')"
+            <div style="position:fixed; top:10px; left: 10px;z-index:1000;">
+              <nuxt-link class="btn btn-outline-light" :to="switchLocalePath('es')"
+                >ES</nuxt-link
+              >
+              <nuxt-link class="btn btn-outline-light" :to="switchLocalePath('en')"
                 >EN</nuxt-link
               >
-              <nuxt-link class="btn btn-light" :to="switchLocalePath('es')"
-                >ES</nuxt-link
+              <nuxt-link class="btn btn-outline-light" :to="switchLocalePath('ca')"
+                >CA</nuxt-link
               >
             </div>
           </li>
