@@ -9,7 +9,7 @@
     "heroku-postbuild": "npm run build"
   },
   "engines": {
-    "node": "14.15.1"
+    "node": "14.19.0"
   },
   "dependencies": {
     "jump.js": "^1.0.2",
