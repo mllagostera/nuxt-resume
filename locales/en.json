@@ -52,17 +52,27 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
+        "position": "Scrum Master / Software Development Manager",
+        "companie": "Firmaprofesional S.A. / Logalty",
+        "responsabilities": [
+          "Designer and Creator of the SCRUM process on the product area (PM/PO/TL)",
+          "Mentor of the Team Leads and Developers",
+          "Coach of Product Owners and Product Managers",
+          "Responsible for the CI/CD (Jenkins)",
+          "Responsible for finding and incorporating external tools to improve the quality of the developed code (Pipelines, Sensiolab Insight)"        ],
+        "startEndDate": "January 2022 - Present"
+      },
+      {
         "position": "Software Development Manager / Team Lead / DevOps",
         "companie": "Firmaprofesional S.A.",
         "responsabilities": [
-          "Team Lead of an international offshore team of 7 people",
-          "Responsible for the simultaneous development of more than 8 projects for large public and private companies",
+          "Team Lead of an international offshore team",
+          "Responsible for the simultaneous development projects for large public and private companies",
           "Leader of the web team, being responsible for technical decision making and assigning tasks to my team in the different projects",
           "Creator of the stable software development flow for the whole company",
           "Mentor of new developers",
           "Driver of the open source code of the company",
           "Plan designer to be able to aggregate external and offshore development sources",
-          "Responsible for finding and incorporating external tools to improve the quality of the developed code (Pipelines, Jenkins, Sensiolabs Insight)",
           "DevOps: Delivery | Configuration Environments | Docker | Ansible",
           "Backend Developer: PHP | Symfony | Java | MySQL | Elasticsearch | SQLlite",
           "Frontend Developer: Javascript | JQuery"
